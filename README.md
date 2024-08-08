@@ -3,8 +3,8 @@ Welcome to the Decipher Challenge repository! This project includes a series of 
 ## Features
 File Analysis: 
 Analyze the content of text files to count the number of periods ('.') and split the file into segments.
-## Frequency Analysis: Perform letter frequency analysis to compare ciphered text frequencies with typical English letter frequencies.
-## File Comparison: 
+ Frequency Analysis: Perform letter frequency analysis to compare ciphered text frequencies with typical English letter frequencies.
+ File Comparison: 
 
 Compare two files to identify differences line by line.
 
